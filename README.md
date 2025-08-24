@@ -1,1 +1,1 @@
-#  Role-Based Access Control (RBAC) via Strapi
+#  Role-Based Access Control (RBAC)
